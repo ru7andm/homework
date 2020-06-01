@@ -2,8 +2,10 @@
 
 using namespace std;
 
+class Room {
+
+};
+
 int main() {
-    cout << "228";
-    // lol
-    // lololo
+    
 }
